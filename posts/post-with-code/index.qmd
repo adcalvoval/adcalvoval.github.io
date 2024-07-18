@@ -1,0 +1,9 @@
+---
+title: "Analysis of DHS Data"
+author: "Adrián Calvo-Valderrama"
+date: "2024-07-18"
+categories: [code, analysis, R]
+image: "image.jpg"
+---
+
+This was a project using DHS data. You can find the project [here](https://www.youtube.com/watch?v=Oyy_JboK9uY){target="_blank}

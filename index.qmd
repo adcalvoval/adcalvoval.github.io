@@ -1,0 +1,18 @@
+---
+title: "Adrián Calvo-Valderrama"
+image: Adrian.jpg
+about: 
+  template: jolla
+  links:
+    - icon: twitter-x
+      text: x
+      href: https://x.com/acalvoval
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/acalvoval/
+    - icon: github
+      text: Github
+      href: https://github.com/adcalvoval
+---
+
+Highly skilled and results-driven Project Manager with a proven track record in leading complex initiatives and driving successful outcomes, and a demonstrated ability to lead cross-functional teams and oversee project life-cycles from initiation to delivery. Specializing in data analysis, stakeholder engagement, and strategic planning, I bring extensive experience in the humanitarian sector, particularly in health capacity analysis, displacement monitoring and public service improvement. With a strong focus on data-driven decision-making, I excel in developing innovative solutions and managing teams to achieve project objectives.
